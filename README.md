@@ -2,7 +2,8 @@
 
 I'm Lennert, a master student in Artificial Intelligence @ the University of Amsterdam, with a MSc in Econometrics. Welcome to my GitHub profile.
 
-- 📫 How to reach me: 
+## 📫 How to reach me: 
+- ...
 
 <!--
 **lennertjansen/lennertjansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
