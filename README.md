@@ -3,9 +3,10 @@
 I'm Lennert, a master student in Artificial Intelligence @ the University of Amsterdam, with a MSc in Econometrics. Welcome to my GitHub profile.
 
 ## 📫 How to reach me: 
-- ...
-
-<!--
+- 📩 lennertjansen95@gmail.com
+- 🦆 https://twitter.com/lennertjansen
+- 🔗 https://www.linkedin.com/in/lennertjansen/
+- 🧑🏽‍💻 lennertjansen.com (WIP)
 **lennertjansen/lennertjansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
