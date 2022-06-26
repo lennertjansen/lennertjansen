@@ -6,7 +6,7 @@ I'm Lennert, a master student in Artificial Intelligence @ the University of Ams
 - 📩 lennertjansen95@gmail.com
 - 🦆 https://twitter.com/lennertjansen
 - 🔗 https://www.linkedin.com/in/lennertjansen/
-- 🧑🏽‍💻 lennertjansen.com (WIP)
+- 🧑🏽‍💻 [lennertjansen.com](https://lennertjansen.com/)
 
 <!--
 **lennertjansen/lennertjansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
