@@ -1,6 +1,4 @@
-### Hi there 👋
-
-I'm Lennert, a master student in Artificial Intelligence @ the University of Amsterdam, with a MSc in Econometrics. Welcome to my GitHub profile.
+### Hi, I'm Lennert
 
 ## 📫 How to reach me: 
 - 📩 lennertjansen95@gmail.com
