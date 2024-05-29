@@ -1,10 +1,10 @@
-### Hi, I'm Lennert
+### Hi
 
 ## 📫 How to reach me: 
 - 📩 lennertjansen95@gmail.com
 - 🦆 https://twitter.com/lennertjansen
 - 🔗 https://www.linkedin.com/in/lennertjansen/
-- 🧑🏽‍💻 [lennertjansen.com](https://lennertjansen.com/)
+- 🧑🏽‍💻 [lennert.ai](https://lennert.ai/) (under construction)
 
 <!--
 **lennertjansen/lennertjansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
