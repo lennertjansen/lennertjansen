@@ -1,7 +1,6 @@
 ### Hi
 
 ## 📫 How to reach me: 
-- 📩 lennertjansen95@gmail.com
 - 🦆 https://twitter.com/lennertjansen
 - 🔗 https://www.linkedin.com/in/lennertjansen/
 - 🧑🏽‍💻 [lennert.ai](https://lennert.ai/) (under construction)
