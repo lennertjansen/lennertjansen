@@ -1,9 +1,9 @@
 ### Hi
 
 ## 📫 How to reach me: 
+- 🧑🏽‍💻 [lennert.ai](https://lennert.ai/)
 - 🦆 https://twitter.com/lennertjansen
 - 🔗 https://www.linkedin.com/in/lennertjansen/
-- 🧑🏽‍💻 [lennert.ai](https://lennert.ai/)
 
 <!--
 **lennertjansen/lennertjansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
